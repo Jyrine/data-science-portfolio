@@ -1,10 +1,8 @@
 ---
-title: JIANG JINGRU — Data Science Portfolio
+title: Data Science Portfolio
 ---
 
-# JIANG JINGRU
-
-Macao · Data Science and Data Visualization (CISC7204) · Student ID mc65169
+**JIANG JINGRU** · Macao · Data Science and Data Visualization (CISC7204)
 
 I am an undergraduate student at the University of Macau working on data
 science coursework and small exploratory-analysis projects. I enjoy turning
